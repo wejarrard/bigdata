@@ -1,2 +1,2 @@
-# bigdata
-repo for big data project to learn spark
+# H&M Recommendation Contest
+repo for H&M recommendation contest
